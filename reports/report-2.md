@@ -12,8 +12,8 @@ It brings a tear to the eye.
 
 Admittedly, I'm cherrypicking an egregious (well, readily available) example from a server that doesn't prioritize aesthetics, but it demonstrates exactly the kind of mystery soup that SS13 has evolved into aesthetically. There are sprites that date back from and before r4407 right alongside a (poorly) modified version of Tau Ceti's tileset! What's going on?
 
-> Lots of legacy sprites tend to be legacy for a reason. We should look at replacing them eventually, but knocking out primary visual offenders is our priority -- Sprites that give people the wrong idea about what this server *is*. 
---- Any%
+> Lots of legacy sprites tend to be legacy for a reason. We should look at replacing them eventually, but knocking out primary visual offenders is our priority – Sprites that give people the wrong idea about what this server *is*. 
+— Any%
 
 What did she mean by that? Well-
 
