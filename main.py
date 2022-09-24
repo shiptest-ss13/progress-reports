@@ -2,10 +2,10 @@ import mistletoe
 import os
 
 with open("output/index.html", "x") as out:
-    filelist = []
-    filelist.extend(os.listdir("reports"))
+    filelist = os.listdir("reports")
     filelist.reverse()
     for file in filelist:
-        with open(f"reports/{file}") as f:
-            out.write(mistletoe.markdown(f))
-        out.write("<br>\n<hr>\n<br>\n")
+        out.write(f"<div id='{file}'>")
+        with open(f"reports/{file}") as input:
+            out.write(mistletoe.markdown(input))
+        out.write("</div>\n<br><hr><br>\n")
