@@ -27,7 +27,7 @@ The problem comes when you try to diverge from that.
 
 Of course, the problem goes beyond just skill. If you told a dozen of Space Station 13's most talented spriters to resprite the entirety of the game, your end result would still look like chunky visual mystery soup without any sort of guiding principles for aesthetics and visuals. Servers with strong visual cohesion like Goonstation and CEV Eris have guides on how to make sprites in *their* style, such as [Goonstation's Spriting Guidelines](https://hackmd.io/@goonstation/docs/%2F%40goonstation%2Fsprites) or Eris' pre-made palettes.
 
-> *We* could do that. (mention that we're taking a more holistic approach via overall faction/location/etc. style guides. also, *should* we make a unified palette? makes sense, but that might be a function of the size and not the palette as a concept.)
+> *We* could do that.
 
 We could, and should, get our standards for spriting down somewhere accessible; I'd even entertain a standardized palette for Shiptest at some point. However, before any of that, I want to clearly define the aesthetic our server is actually going for. It's been in somewhat in flux for a long time. We've always had a vague idea of what we want in the back of our minds, but we've only recently taken the time to really discuss what we want Shiptest to look like.
 
