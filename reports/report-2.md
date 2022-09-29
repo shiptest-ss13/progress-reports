@@ -31,12 +31,6 @@ Of course, the problem goes beyond just skill. If you told a dozen of Space Stat
 
 We could, and should, get our standards for spriting down somewhere accessible; I'd even entertain a standardized palette for Shiptest at some point. However, before any of that, I want to clearly define the aesthetic our server is actually going for. It's been in somewhat in flux for a long time. We've always had a vague idea of what we want in the back of our minds, but we've only recently taken the time to really discuss what we want Shiptest to look like.
 
-I've discussed the matter with Any%; we both agree that we want industrial environments that remind you that you are on the Rim.
-
-> There's something rugged about the idea of everyone happily going about their day ready to come face-to-face with hard vacuum, and our design should capture that.
-
-We could, and should, get our standards for spriting down somewhere accessible; I'd even entertain a standardized palette for Shiptest at some point. However, before any of that, I want to clearly define the aesthetic our server is actually going for. It's been in somewhat in flux for a long time. We've always had a vague idea of what we want in the back of our minds, but we've only recently taken the time to really discuss what we want Shiptest to look like.
-
 I won't go into the topic of visual direction too deeply here (this dlogpost is mostly just me getting used to writing posts like these), but I've discussed the matter with Any%; we both agree that we want industrial environments that remind you that you are on the Rim. 
 
 > There's something rugged about the idea of everyone happily going about their day ready to come face-to-face with hard vacuum, and our design should capture that.
