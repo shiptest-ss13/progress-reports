@@ -4,7 +4,7 @@
 
 To add a new report, simply add a new markdown (.md) file to the [reports](reports) subdirectory. You can use [CommonMark](https://spec.commonmark.org/current/) flavoured markdown and it will all be turned into HTML for the webpage at [the shiptest progress reports page](https://progress.shiptest.net) when the file is pushed to the master branch on github.
 
-The full listing of all progress reports, and not just the most recent ones, is located [here](https://progress.shiptest.net/all.html).
+The full listing of all progress reports, and not just the most recent ones, is located [here](https://progress.shiptest.net/all).
 
 ## The script
 
