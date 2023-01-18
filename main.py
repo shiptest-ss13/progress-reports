@@ -17,7 +17,7 @@ with open("output/index.html", "x") as out:
 		for index, file in enumerate(filelist):
 			#Only write the first three reports to the index file
 			if index < 3:
-					WriteReport(out, file)
+				WriteReport(out, file)
 				
-				#Always write to the out_all file
-				WriteReport(out_all, file)
+			#Always write to the out_all file
+			WriteReport(out_all, file)
