@@ -10,11 +10,11 @@ def WriteReport(target, input_filename):
 
 with open("output/index.html", "x") as out:
 	with open("output/all.html", "x") as out_all:
-		filelist = enumerate(os.listdir("reports"))
+		filelist = os.listdir("reports")
 		#We want the latest first, so it'll be the last alphabetically if numbered ascendingly
 		filelist.reverse()
 
-		for index, file in filelist:
+		for index, file in enumerate(filelist):
 			#Only write the first three reports to the index file
 			if index < 3:
 				WriteReport(out, file)
