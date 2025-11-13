@@ -291,4 +291,4 @@ This report is drastically different from the last one, probably considering it'
 
 ### Server Costs
 
-Hi, this is the section where I shill for the server host. Do you like testing ships? Do you like shipping tests? Would you like to give your gold to a dragon? Please donate to **Zephyr**'s Patreon, our server host. They're the reason the server is not running on a Raspberry Pi inside a pizza box. Not begging, yet!
+Hi, this is the section where I shill for the server host. Do you like testing ships? Do you like shipping tests? Would you like to give your shinies to a ~~dragon~~ bird with hoarding tendencies? Full disclosure that this message is an edit from the future from aforementioned bird, but nonetheless, any and all support for the server is greatly appreciated! You can donate [here](https://ko-fi.com/shiptest) to ensure the server's wheels keep turning!
